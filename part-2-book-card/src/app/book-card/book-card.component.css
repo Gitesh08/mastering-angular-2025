@@ -1,0 +1,24 @@
+.card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 350px;
+  margin: 20px auto;
+  text-align: left;
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #2c3e50;
+  margin-top: 0;
+}
+
+p {
+  color: #34495e;
+  margin: 8px 0;
+}
+
+strong {
+  color: #7f8c8d;
+}
