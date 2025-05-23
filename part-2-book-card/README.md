@@ -78,8 +78,8 @@ Fork this repository, submit issues, or send pull requests to enhance the projec
 ## Connect with Me
 
 - **Medium**: [medium.com/@gitesh08](https://medium.com/@gitesh08)
-- **LinkedIn**: [linkedin.com/in/<your-linkedin-username>](https://www.linkedin.com/in/gitesh-mahadik-7487961a0/)
-- **GitHub**: [github.com/<your-username>](https://github.com/Gitesh08)
+- **LinkedIn**: [linkedin.com/in/gitesh-mahadik](https://www.linkedin.com/in/gitesh-mahadik-7487961a0/)
+- **GitHub**: [github.com/Gitesh08](https://github.com/Gitesh08)
 
 Thank you for checking out the Book Card project! Let’s continue mastering Angular together.
 
