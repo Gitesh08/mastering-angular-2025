@@ -1,28 +1,34 @@
 # Mastering Angular in 2025
 
-Welcome to the **Mastering Angular in 2025** repository! This repository hosts mini-projects from my blog series on Medium, designed to help you learn Angular by building practical, modular web applications. Each project corresponds to a part of the series, covering key Angular concepts like components, lifecycle hooks, and more.
+Welcome to the **Mastering Angular in 2025** repository! This is your go-to spot for hands-on mini-projects tied to my Medium blog series, designed to help you level up your Angular skills. Whether you’re just starting out or you’re a seasoned dev looking to sharpen up, these projects break down key Angular concepts like components, lifecycle hooks, and component communication through practical, bite-sized apps. Each project lives in its own folder and matches a blog post in the series.
 
-Whether you're new to Angular or an experienced developer, these projects offer hands-on practice to enhance your skills. Explore, experiment, and join me in mastering Angular!
+Dive in, play around, and let’s master Angular together!
 
 ## Projects
 
-Below is a list of the mini-projects in this repository, each tied to a blog post:
+Here’s the lineup of mini-projects in this repo, each linked to a blog post:
 
 - **Part 2: Book Card** (`part-2-book-card`)
-  - A reusable Angular component that displays book details (title, author, publication year) in a styled card.
+  - A reusable Angular component displaying book details (title, author, year) in a sleek card.
   - Features: Component creation, external CSS, lifecycle hooks (`ngOnInit`, `ngOnChanges`, `ngOnDestroy`).
-  - Blog Post: [Part 2: Diving Deep into Angular Components](https://medium.com/@<your-medium-username>/<part-2-slug>)
+  - Blog Post: [Part 2: Diving Deep into Angular Components](https://medium.com/@gitesh08/mastering-angular-components-in-2025-01a8bdf4e0ce)
   - Folder: `part-2-book-card`
 
-More projects will be added as the series continues. Check back for Part 3 and beyond!
+- **Part 3: Task Tracker** (`part-3-task-tracker`)
+  - A dynamic task tracker app where you can add tasks and mark them as complete.
+  - Features: Lifecycle hooks (`ngOnInit`, `ngOnChanges`, `ngOnDestroy`), component communication with `@Input` and `@Output`, and a simple service for data sharing.
+  - Blog Post: [Part 3: Lifecycle Hooks and Component Communication](https://medium.com/@gitesh08/<part-3-slug>)
+  - Folder: `part-3-task-tracker`
+
+More projects are coming as the series rolls on—stay tuned for Part 4!
 
 ## Getting Started
 
-Each project is a standalone Angular application with its own dependencies. To run any project:
+Each project is a standalone Angular app with its own setup. To run any project:
 
 1. **Prerequisites**:
    - Node.js (v18 or higher)
-   - Angular CLI. Install globally with:
+   - Angular CLI. Install it globally with:
      ```bash
      npm install -g @angular/cli
      ```
@@ -34,9 +40,9 @@ Each project is a standalone Angular application with its own dependencies. To r
    ```
 
 3. **Navigate to a Project**:
-   For example, to run the Book Card project:
+   For example, to run the Task Tracker:
    ```bash
-   cd part-2-book-card
+   cd part-3-task-tracker
    ```
 
 4. **Install Dependencies**:
@@ -48,31 +54,32 @@ Each project is a standalone Angular application with its own dependencies. To r
    ```bash
    ng serve
    ```
-   Open `http://localhost:4200` in your browser to view the project.
+   Open `http://localhost:4200` in your browser (checked as of 9:06 PM IST, May 23, 2025).
 
-Refer to each project’s `README.md` (e.g., `part-2-book-card/README.md`) for specific instructions and details.
+Each project folder (e.g., `part-2-book-card/README.md` or `part-3-task-tracker/README.md`) has its own `README.md` with specific setup details.
 
 ## About the Mastering Angular Series
 
-The *Mastering Angular in 2025* blog series is your guide to building modern web applications with Angular. Each part includes a mini-project to reinforce key concepts. Start with:
+The *Mastering Angular in 2025* blog series is your guide to building modern web apps with Angular. Each part comes with a mini-project to hammer home key concepts. Here’s the rundown so far:
 
-- **Part 1: Getting Started with Angular** ([Medium link](https://medium.com/@gitesh08/mastering-angular-a-developers-guide-to-building-modern-web-apps-386801f67466)): Learn to set up Angular and create a “Hello, World!” app.
-- **Part 2: Diving Deep into Angular Components** ([Medium link](https://medium.com/@gitesh08/mastering-angular-components-in-2025-01a8bdf4e0ce)): Build the Book Card project and master components.
+- **Part 1: Getting Started with Angular** ([Medium link](https://medium.com/@gitesh08/mastering-angular-a-developers-guide-to-building-modern-web-apps-386801f67466)): Set up Angular and build a “Hello, World!” app.
+- **Part 2: Diving Deep into Angular Components** ([Medium link](https://medium.com/@gitesh08/mastering-angular-components-in-2025-01a8bdf4e0ce)): Create the Book Card project and learn component basics.
+- **Part 3: Lifecycle Hooks and Component Communication** ([Medium link](https://medium.com/@gitesh08/<part-3-slug>)): Build the Task Tracker and master lifecycle hooks and communication.
 
-Look out for **Part 3**, which will cover lifecycle hooks and component interactions with a new mini-project. Follow me on Medium for updates.
+Part 4 is coming soon, diving into directives and pipes with another fun project. Follow me on Medium to stay in the loop!
 
 ## Get Involved
 
-- **Experiment**: Modify the projects, such as changing the Book Card’s data or styles.
-- **Share**: Share your project variations on X or LinkedIn and tag me.
-- **Contribute**: Fork this repository, submit issues, or send pull requests to improve the projects.
+- **Experiment**: Tweak the projects! Try changing the Task Tracker’s styles or adding new features like task editing.
+- **Share**: Show off your remixes on X or LinkedIn—tag me so I can check them out!
+- **Contribute**: Fork the repo, report issues, or submit pull requests to make these projects even better.
 
 ## Connect with Me
 
 - **Medium**: [medium.com/@gitesh08](https://medium.com/@gitesh08)
-- **LinkedIn**: [linkedin.com/in/<your-linkedin-username>](https://www.linkedin.com/in/gitesh-mahadik-7487961a0/)
-- **GitHub**: [github.com/<your-username>](https://github.com/Gitesh08)
+- **LinkedIn**: [linkedin.com/in/gitesh-mahadik](https://www.linkedin.com/in/gitesh-mahadik-7487961a0/)
+- **GitHub**: [github.com/Gitesh08](https://github.com/Gitesh08)
 
-Thank you for exploring this repository! Let’s keep learning and building with Angular.
+Thanks for checking out this repo! I’m stoked to have you along for this Angular journey. Grab a project, mess around, and let’s keep building cool stuff together.
 
 Happy coding!

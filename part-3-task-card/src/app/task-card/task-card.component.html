@@ -1,0 +1,8 @@
+<div class="card">
+    <h2>{{ task.title }}</h2>
+    <p><strong>Description:</strong> {{ task.description }}</p>
+    <p>
+        <strong>Status:</strong> {{ task.completed ? "Completed" : "Pending" }}
+    </p>
+    <button (click)="onComplete()" [disabled]="task.completed">Complete</button>
+</div>

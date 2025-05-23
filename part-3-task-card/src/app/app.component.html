@@ -1,0 +1,14 @@
+<h1>My Task Tracker</h1>
+<div class="form">
+    <input [(ngModel)]="newTask.title" placeholder="Task Title" />
+    <input [(ngModel)]="newTask.description" placeholder="Description" />
+    <button (click)="addTask()">Add Task</button>
+</div>
+<div class="task-list">
+    <app-task-card
+        *ngFor="let task of tasks; let i = index"
+        [task]="task"
+        (complete)="completeTask(i)"
+    >
+    </app-task-card>
+</div>
