@@ -64,7 +64,7 @@ The *Mastering Angular in 2025* blog series is your guide to building modern web
 
 - **Part 1: Getting Started with Angular** ([Medium link](https://medium.com/@gitesh08/mastering-angular-a-developers-guide-to-building-modern-web-apps-386801f67466)): Set up Angular and build a “Hello, World!” app.
 - **Part 2: Diving Deep into Angular Components** ([Medium link](https://medium.com/@gitesh08/mastering-angular-components-in-2025-01a8bdf4e0ce)): Create the Book Card project and learn component basics.
-- **Part 3: Lifecycle Hooks and Component Communication** ([Medium link](https://medium.com/@gitesh08/<part-3-slug>)): Build the Task Tracker and master lifecycle hooks and communication.
+- **Part 3: Lifecycle Hooks and Component Communication** ([Medium link](https://medium.com/@gitesh08/mastering-angular-components-in-2025-52f2f492d3cc)): Build the Task Tracker and master lifecycle hooks and communication.
 
 Part 4 is coming soon, diving into directives and pipes with another fun project. Follow me on Medium to stay in the loop!
 
