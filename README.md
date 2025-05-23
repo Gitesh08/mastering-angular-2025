@@ -2,6 +2,7 @@
 
 Welcome to the **Mastering Angular in 2025** repository! This is your go-to spot for hands-on mini-projects tied to my Medium blog series, designed to help you level up your Angular skills. Whether you’re just starting out or you’re a seasoned dev looking to sharpen up, these projects break down key Angular concepts like components, lifecycle hooks, and component communication through practical, bite-sized apps. Each project lives in its own folder and matches a blog post in the series.
 
+
 Dive in, play around, and let’s master Angular together!
 
 ## Projects
