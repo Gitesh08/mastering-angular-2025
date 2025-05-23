@@ -4,6 +4,9 @@ Welcome to the **Mastering Angular in 2025** repository! This is your go-to spot
 
 Dive in, play around, and let’s master Angular together!
 
+![Untitled design (48)](https://github.com/user-attachments/assets/c94d70e9-30f3-4601-b6b5-82f18a734ec9)
+
+
 ## Projects
 
 Here’s the lineup of mini-projects in this repo, each linked to a blog post:
